@@ -7,10 +7,10 @@ Analista de TI em transição para <strong>Segurança da Informação</strong>, 
 
 ### Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💼 Experiência como Administrador de Servidores Linux na TATA Consultancy Services
-- 🔐 Estudo diariamente **Blue Team, Pentest e Segurança em Redes**
-- 🧰 Familiaridade com:  
+- Formado em Análise e Desenvolvimento de Sistemas
+- Experiência como Administrador de Servidores Linux na TATA Consultancy Services
+- Estudo diariamente **Blue Team, Pentest e Segurança em Redes**
+- Familiaridade com:  
   - Gestão de usuários Linux, permissões e políticas  
   - Monitoramento com **Zabbix** e **Grafana**  
   - Automação com **Shell Script**  
@@ -25,4 +25,13 @@ Aprimorar minhas habilidades defensivas e ingressar como **Analista SOC**, focan
 ### Contato
 
 <a href="www.linkedin.com/in/lucas-s1lva" target="_blank">LinkedIn</a>  
-📧 lucas — lucas10besilva@gmail.com — aqui  
+E-mail:lucas10besilva@gmail.com 
+
+### Projetos do Portfólio
+
+| Projeto | Descrição | Status |
+|--------|-----------|-------|
+|  *WiFi Check Script* | Script em Bash para verificar status da placa Wi-Fi no Debian | 🔨 Em evolução |
+|  *Mini-LAB SOC* | Ambiente de estudos com Debian para análise de logs e segurança | 🚧 Planejando |
+|  *Automação Backup* | Script automatizado de backup local + remoto | ✨ Em breve |
+

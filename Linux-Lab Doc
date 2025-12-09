@@ -1,0 +1,35 @@
+# Documentação – Linux-Lab
+
+## Introdução  
+O **Linux-Lab** nasceu como um ambiente de estudo prático voltado para fortalecer minha base em Linux, segurança, infraestrutura e administração de servidores. A proposta é simples: criar um laboratório real, acessível e consistente, onde eu possa testar ferramentas, diagnosticar problemas, quebrar coisas, corrigir e aprender com cada passo.
+
+## Motivação  
+A motivação veio da necessidade de prática no mundo real. Teoria é importante, mas só ganha valor quando a gente configura, analisa, quebra e resolve. O Linux-Lab é o espaço onde experimento com liberdade, desenvolvo rotinas administrativas, aprendo novos serviços e documento toda a minha evolução em um repositório organizado.  
+Além disso, manter esse projeto ajuda na minha disciplina e foco, especialmente na minha transição para áreas como SOC, Segurança e Administração Linux.
+
+## Estrutura Inicial do Projeto  
+O laboratório começou com a configuração de um notebook rodando Debian Server, que funciona como base para todos os testes. Para manter tudo organizado, estruturei o repositório em pastas como:
+
+- **Docs/** – Documentações, anotações e aprendizados.  
+- **Scripts/** – Scripts úteis para automação e configuração.  
+- **Zabbix-Agent/** – Instalação, configuração e registros sobre monitoramento.  
+
+Durante a criação do ambiente, enfrentei alguns obstáculos importantes que contribuíram para meu aprendizado:
+
+### Problemas com Wi-Fi  
+A placa Wi-Fi apresentou falhas constantes, o que impediu conexões via SSH.  
+Isso me levou a investigar drivers, revisar logs do kernel, reiniciar serviços de rede, analisar interfaces e usar temporariamente USB Tethering. O processo ajudou a reforçar minha habilidade de diagnóstico e troubleshooting em redes Linux.
+
+### File Systems e Partições  
+Durante a configuração inicial, tive dificuldades com partições e montagem de sistemas de arquivos.  
+Precisei revisar conceitos como tipos de file systems, UUIDs, permissões, estrutura de diretórios e montagem persistente via `/etc/fstab`. Esses ajustes aprofundaram meu entendimento sobre como o Linux gerencia volumes e dispositivos.
+
+Esses desafios formaram a base prática do projeto e fortaleceram meu domínio das ferramentas do sistema.
+
+## Evolução de Habilidades  
+Com o avanço do Linux-Lab, venho percebendo uma evolução constante nas minhas habilidades técnicas. Cada problema enfrentado — seja de rede, partição, serviço ou configuração — treina minha capacidade de investigação e documentação.  
+O laboratório se tornou um espaço onde não apenas executo comandos, mas entendo a lógica por trás deles.  
+A organização do repositório, criação de scripts, correções registradas e padronização me deram mais maturidade profissional, especialmente no uso de Git e versionamento.
+
+O Linux-Lab continua sendo um projeto vivaço, sempre em crescimento, que acompanha meu desenvolvimento e me impulsiona para níveis mais avançados no ecossistema Linux e segurança.
+

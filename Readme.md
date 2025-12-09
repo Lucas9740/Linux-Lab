@@ -17,3 +17,12 @@ Analista de TI em transição para <strong>Segurança da Informação</strong>, 
   - Rotinas de Backup
 
 Atualmente utilizando um **servidor Debian** para simulações, criação de scripts e portfólio.
+
+### Objetivo
+
+Aprimorar minhas habilidades defensivas e ingressar como **Analista SOC**, focando em resposta a incidentes e monitoramento de segurança.
+
+### Contato
+
+<a href="www.linkedin.com/in/lucas-s1lva" target="_blank">LinkedIn</a>  
+📧 lucas — lucas10besilva@gmail.com — aqui  

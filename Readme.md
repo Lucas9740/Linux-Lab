@@ -32,7 +32,7 @@ E-mail:lucas10besilva@gmail.com
 | Projeto | Descrição | Status |
 |--------|-----------|-------|
 |  *WiFi Check Script* | Script em Bash para verificar status da placa Wi-Fi no Debian | In Progress |
-|  *Mini-LAB SOC* | Ambiente de estudos com Debian para análise de logs e segurança | In Progress |
+|  *Mini-LAB SOC* | Ambiente de estudos com Debian para análise de logs e segurança | Done |
 |  *Automação Backup* | Script automatizado de backup local + remoto | To Do |
 |  Zabbix-Agent | Instalação e Troubleshoothings do Zabbix Agent | In Progress |
 
